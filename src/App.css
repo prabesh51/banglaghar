@@ -1,0 +1,25 @@
+/* App.css - Basic styling to complement the Navbar */
+
+.App {
+  text-align: center;
+  min-height: 100vh;
+}
+
+.content {
+  padding: 2rem 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #0B1F23;
+  margin-bottom: 1.5rem;
+}
+
+p {
+  color: #0B1F23;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* Additional styling for pages if needed */
